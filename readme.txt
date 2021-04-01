@@ -1,0 +1,1 @@
+App tested using Pixel 2 emulator.
